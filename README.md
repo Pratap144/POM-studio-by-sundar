@@ -4,7 +4,7 @@
 
 **Interference colours in polarised-light microscopy, computed from spectra, not painted.**
 
-[![Open the tool](https://img.shields.io/badge/Open%20the%20tool-live%20in%20your%20browser-141414?style=for-the-badge)](https://YOURUSERNAME.github.io/POM-studio-by-sundar/pom_studio_by_sundar.html)
+[![Open the tool](https://img.shields.io/badge/Open%20the%20tool-live%20in%20your%20browser-141414?style=for-the-badge)](https://pratap144.github.io/POM-studio-by-sundar/pom_studio_by_sundar.html)
 
 [![Licence: CC0 1.0](https://img.shields.io/badge/licence-CC0%201.0-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 ![Version 2.1.0](https://img.shields.io/badge/version-2.1.0-blue.svg)
